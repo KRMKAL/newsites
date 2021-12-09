@@ -1,1 +1,3 @@
-hey every ob_end_clean
+<?php
+    echo "Hello Clasicoh Kals";
+?>
